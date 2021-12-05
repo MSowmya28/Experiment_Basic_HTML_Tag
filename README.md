@@ -14,6 +14,15 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
+<html>
+
+<body>
+<h1>Name:M.sowmya</h1>
+<h3>Designation:student (UG) </h3>
+<h5>Dept.:Artificial Intelligence and Data Science</h5>
+</body>
+
+</html>
+
 # OUPUT
-*OUTPUT*
+![output](https://github.com/MSowmya28/Experiment_Basic_HTML_Tag/blob/main/output.png?raw=true)
