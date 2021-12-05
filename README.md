@@ -13,7 +13,7 @@ Add a paragragh tag to the program
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 <html>
 
 <body>
@@ -24,5 +24,5 @@ Execute the program
 
 </html>
 
-# OUPUT
+## OUPUT
 ![output](https://github.com/MSowmya28/Experiment_Basic_HTML_Tag/blob/main/output.png?raw=true)
